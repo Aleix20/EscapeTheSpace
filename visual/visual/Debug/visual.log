@@ -1,0 +1,220 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(500,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  framework.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+  game.cpp
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  gamemap.cpp
+  image.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,39): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,103): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.cpp(167,31): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.cpp(167,50): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.cpp(171,34): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.cpp(171,50): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.cpp(204,20): warning C4018: '<': no coinciden signed/unsigned
+  input.cpp
+  main.cpp
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  player.cpp
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  pressurePlate.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  sprite.cpp
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  stageGameOver.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,39): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,103): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  stageIntro.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,39): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,103): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  stageMenu.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,39): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,103): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  stageOutro.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,39): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,103): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  stagePlay.cpp
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,74): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,113): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(257,152): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,97): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,79): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(259,61): warning C4244: 'argumento': conversión de 'float' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(275,68): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,177): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,140): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\framework.h(278,103): warning C4244: 'argumento': conversión de 'double' a 'unsigned char'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,38): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(53,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,39): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,27): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(54,12): warning C4244: '=': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,111): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,103): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,95): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(74,87): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  synth.cpp
+  utils.cpp
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+  world.cpp
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,89): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(61,103): warning C4018: '>=': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(104,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\image.h(105,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\world.cpp(185,33): warning C4018: '>': no coinciden signed/unsigned
+C:\Users\aleix\source\repos\TJE2D\src\world.cpp(186,30): warning C4018: '>': no coinciden signed/unsigned
+  Generando código...
+framework.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+  visual.vcxproj -> C:\Users\aleix\source\repos\TJE2D\Game.exe
